@@ -1,4 +1,4 @@
-# 📄 Text File Analyzer (Streamlit App)
+#  Text File Analyzer (Streamlit App)
 
 This is a simple Streamlit web app that analyzes a `.txt` file. It provides:
 
@@ -12,7 +12,7 @@ This is a simple Streamlit web app that analyzes a `.txt` file. It provides:
 
 ---
 
-## 🚀 How to Run
+##  How to Run
 
 1. Install Streamlit:
 
@@ -20,9 +20,9 @@ This is a simple Streamlit web app that analyzes a `.txt` file. It provides:
 pip install streamlit
 ```
 
-## 📸 Screenshots
+## Screenshots
 
-### 🏠 Homepage
+###  Homepage
 
 This screenshot shows the landing page of the Text File Analyzer app.
 
@@ -30,7 +30,7 @@ This screenshot shows the landing page of the Text File Analyzer app.
 
 ---
 
-### 📊 Analysis Results
+###  Analysis Results
 
 This shows the output summary after uploading and analyzing a `.txt` file.
 
